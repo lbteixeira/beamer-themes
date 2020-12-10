@@ -24,7 +24,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [intridea] | [Screenshot][intridea-screenshot] | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
 | [Keynote-esque] | [PDF][Keynote-esque-pdf] | A theme simulating Apple's Keynote presentations. |
-| [Subdued] | [Screenshot][Subdued-pdf] | A subdued, stylish beamer template by Cameron Bracken |
 | [Bjeldbak] | [Screenshot][Bjeldbak-screenshot] | A minimalistic beamer theme based on the subdued theme by Martin Bjeldbak Madsen |
 | [HSRM] | [PDF][HSRM-pdf] | A theme that complies with the corporate design of the RheinMain University of Applied Sciences by Benjamin Weiss. |
 | [GC3] | [PDF][GC3-pdf] | A theme that is based on the University of Zurich "corporate identity" guidelines by Riccardo Murri. |
