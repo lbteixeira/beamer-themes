@@ -1,7 +1,7 @@
-# The Ultimate Beamer Theme List
-Hi! Below is a table of custom Beamer themes originally taken from [latex.simon04.net](http://latex.simon04.net), now expanded to include a few more themes.
+# My Beamer Themes List
+This is a curated list of Beamer themes that interest me. In general, I'm progressively changing the organization of the repository and making new commits, in order to have all the templates here, instead of having links to them.
 
-Want to add yours? Awesome! Send a PR with your link added to the bottom of the table, or email me (see my GitHub profile) and I'll do it for you.
+This list was forked from ultimate-beamer-theme-list, that was originally taken from [latex.simon04.net](http://latex.simon04.net).
 
 |  Theme |  Preview |  Notes |
 | ------ | -------- | ------ |
