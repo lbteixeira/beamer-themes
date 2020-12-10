@@ -10,7 +10,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [diepen style] | [Screenshot][diepen style-screenshot] | For those that like airplanes (or any other background image I suppose) |
 | [TU/e PDFScreen][tue-pdfscreen]  | [PDF][tue-pdfscreen-pdf]  | It's the post dated January 31, 2008. |
 | [IAS themes] | [Screenshot][IAS themes-screenshot] | Created by Frans Oliehoek. |
-| [KDE Oxygen-style] | [PDF][KDE Oxygen-style-pdf] | Two beautiful KDE themes exist, one's called "Oxygen", the other "Air". |
 | [Stockton] | [Screenshot][Stockton-screenshot] |  From the University of the Pacific. |
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
 | [UA] | [Screenshot][UA-screenshot] | A LaTeX beamer theme for the University of Antwerp. |
