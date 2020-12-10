@@ -12,7 +12,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [IAS themes] | [Screenshot][IAS themes-screenshot] | Created by Frans Oliehoek. |
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
 | [UniversiteitGent] | [Screenshot][UniversiteitGent-screenshot] | This is a LaTeX beamer theme for the University of Ghent, based on the UA theme. |
-| [UNL] | [PDF][UNL-pdf] | Chris Bourke made a nice theme for the University of Nebraska-Lincoln. |
 | [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
 | [makokal-JUB] | [PDF][makokal-JUB-pdf] | Okal Billy's theme used while at Jacobs University. |
 | [Kyoto] | [PDF][Kyoto-pdf] |  Debian theme for latex-beamer, originally KansaiDebianMeeting OpenOffice Impress theme created by Jun NOGATA. |
