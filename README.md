@@ -20,7 +20,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [bunsen] | [PDF][bunsen-pdf]  | A XeTeX Beamer template by Seth Brown. See the related blog post here [bunsen-web] |
 | [LSE] | [PDF][LSE-pdf] | An unofficial LaTeX Beamer theme for the London School of Economics by Christopher Gandrud. |
 | [ZBH] | [Screenshot][ZBH-screenshot] | Unofficial Beamer theme for the ZBH of the University of Hamburg.  |
-| [TU-BS] | [PDF][TU-BS-pdf] | A beamer theme complying with the corporate design of TU Braunschweig. |
 | [carlworld-beamer-slide-theme] | [Screenshot][carlworld-beamer-slide-theme-screenshot] | Carl Compliant Beamer slide theme. |
 | [intridea] | [Screenshot][intridea-screenshot] | A Beamer theme for Intridea. |
 | [HongKong] | [PDF][HongKong-pdf] | An Unofficial Beamer Theme for the Hong Kong Polytechnic University. |
