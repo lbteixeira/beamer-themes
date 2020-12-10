@@ -11,7 +11,6 @@ Want to add yours? Awesome! Send a PR with your link added to the bottom of the 
 | [TU/e PDFScreen][tue-pdfscreen]  | [PDF][tue-pdfscreen-pdf]  | It's the post dated January 31, 2008. |
 | [IAS themes] | [Screenshot][IAS themes-screenshot] | Created by Frans Oliehoek. |
 | [Torino] | [Screenshot][Torino-screenshot] | A fresh looking theme called "Torino" made by Marco Barisione.  |
-| [UA] | [Screenshot][UA-screenshot] | A LaTeX beamer theme for the University of Antwerp. |
 | [UniversiteitGent] | [Screenshot][UniversiteitGent-screenshot] | This is a LaTeX beamer theme for the University of Ghent, based on the UA theme. |
 | [UNL] | [PDF][UNL-pdf] | Chris Bourke made a nice theme for the University of Nebraska-Lincoln. |
 | [makokal-ALUF] | [PDF][makokal-ALUF-pdf]|  Okal Billy's theme used while at University of Freiburg. |
